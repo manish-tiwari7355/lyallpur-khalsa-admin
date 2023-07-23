@@ -1,1 +1,1 @@
-# lyallpur-khalsa-admin
+# lyallpur-khalsa-college-Admin
